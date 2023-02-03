@@ -42,4 +42,4 @@ The following readme uses a MIT license:
 
 **Added for submission**
 GitHub Repo: https://github.com/Jdanders99/e-commerce-backend
-Live Video:
+Live Video: https://drive.google.com/file/d/1d8BmFv3LDMouC6aCPnnvH8Pjy181eYH8/view
